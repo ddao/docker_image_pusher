@@ -7,3 +7,10 @@
 python:3.13.3-slim
 python:3.13.3
 python
+kube-apiserver:v1.32.2
+kube-controller-manager:v1.32.2
+kube-scheduler:v1.32.2
+kube-proxy:v1.32.2
+etcd:3.5.16-0
+coredns:v1.11.3
+pause:3.10

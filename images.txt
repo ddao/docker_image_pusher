@@ -16,4 +16,6 @@
 #k8s.gcr.io/coredns/coredns:v1.11.3
 #docker/dockerfile:1
 #docker/getting-started
-quay.io/keycloak/keycloak:26.2.3
+quay.io/keycloak/keycloak:latest
+quay.io/keycloak/keycloak:26.2.2
+

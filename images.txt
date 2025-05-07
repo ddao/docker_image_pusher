@@ -15,4 +15,5 @@
 #k8s.gcr.io/pause:3.10
 #k8s.gcr.io/coredns/coredns:v1.11.3
 #docker/dockerfile:1
-docker/getting-started
+#docker/getting-started
+quay.io/keycloak/keycloak:26.2.3

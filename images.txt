@@ -18,5 +18,7 @@
 #docker/getting-started
 #quay.io/keycloak/keycloak:latest
 #quay.io/keycloak/keycloak:26.2.2
-nacos/nacos-server:latest
-nacos/nacos-server:v3.0.0
+#nacos/nacos-server:latest
+#nacos/nacos-server:v3.0.0
+mysql:latest
+mysql:8.0.31

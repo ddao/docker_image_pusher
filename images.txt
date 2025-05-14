@@ -22,3 +22,5 @@
 #nacos/nacos-server:v3.0.0
 mysql:latest
 mysql:8.0.31
+prom/prometheus:latest
+grafana/grafana:latest

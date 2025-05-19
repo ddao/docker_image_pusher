@@ -24,5 +24,7 @@
 #mysql:8.0.31
 #prom/prometheus:latest
 #grafana/grafana:latest
-kong/kong-gateway:3.10.0.1
-kong/kong-gateway:latest
+#kong/kong-gateway:3.10.0.1
+#kong/kong-gateway:latest
+kong/kong-gateway:3.4.1.1
+pantsel/konga:latest

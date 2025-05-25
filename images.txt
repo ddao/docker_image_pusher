@@ -26,5 +26,8 @@
 #grafana/grafana:latest
 #kong/kong-gateway:3.10.0.1
 #kong/kong-gateway:latest
-kong/kong-gateway:3.4.1.1
-pantsel/konga:latest
+#kong/kong-gateway:3.4.1.1
+#pantsel/konga:latest
+docker/labs-k8s-toolkit-extension:0.0.46
+kong/konnect-docker-extension:1.1.10
+docker/logs-explorer-extension:0.2.6

@@ -31,4 +31,8 @@
 #docker/labs-k8s-toolkit-extension:0.0.46
 #kong/konnect-docker-extension:1.1.10
 #docker/logs-explorer-extension:0.2.6
-allegro/ralph:latest
+#allegro/ralph:latest
+allegro/ralph-static-nginx:latest
+mysql:5.7
+redis:3.0
+allegro/inkpy:0.1.4

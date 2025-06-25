@@ -42,5 +42,7 @@
 #python:3.11-slim
 #python:3.12-slim
 #python:3.13-slim
-docker.elastic.co/elasticsearch/elasticsearch:8.18.2
-docker.elastic.co/kibana/kibana:8.18.2
+#docker.elastic.co/elasticsearch/elasticsearch:8.18.2
+#docker.elastic.co/kibana/kibana:8.18.2
+librenms/librenms:latest
+crazymax/msmtpd:latest

@@ -44,5 +44,9 @@
 #python:3.13-slim
 #docker.elastic.co/elasticsearch/elasticsearch:8.18.2
 #docker.elastic.co/kibana/kibana:8.18.2
-librenms/librenms:latest
-crazymax/msmtpd:latest
+#librenms/librenms:latest
+#crazymax/msmtpd:latest
+traefix:latest
+bladex/sentinel-dashboard:1.8.0
+bladex/sentinel-dashboard:latest
+

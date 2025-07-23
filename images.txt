@@ -46,7 +46,6 @@
 #docker.elastic.co/kibana/kibana:8.18.2
 #librenms/librenms:latest
 #crazymax/msmtpd:latest
-traefix:latest
 bladex/sentinel-dashboard:1.8.0
 bladex/sentinel-dashboard:latest
 

@@ -48,4 +48,4 @@
 #crazymax/msmtpd:latest
 #bladex/sentinel-dashboard:1.8.0
 #bladex/sentinel-dashboard:latest
-linuxserver/wireguard:arm64v8-1.0.20250521
+--platform=linux/arm64 linuxserver/wireguard:arm64v8-1.0.20250521

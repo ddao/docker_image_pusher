@@ -49,3 +49,5 @@
 #bladex/sentinel-dashboard:1.8.0
 #bladex/sentinel-dashboard:latest
 --platform=linux/arm64 linuxserver/wireguard:arm64v8-1.0.20250521
+pnetlab/pnet-chrome:latest
+pnetlab/pnet-wireshark:latest

@@ -52,7 +52,7 @@
 #pnetlab/pnet-chrome:latest
 #pnetlab/pnet-wireshark:latest
 pnetlab/ubuntu_sv:latest
-pnetlab/ubuntu_sv:apache2
+#pnetlab/ubuntu_sv:apache2
 pnetlab/linux-desktop:latest
 pnetlab/mysql_server:latest
 pnetlab/haproxy:latest

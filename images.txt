@@ -51,11 +51,13 @@
 #--platform=linux/arm64 linuxserver/wireguard:arm64v8-1.0.20250521
 #pnetlab/pnet-chrome:latest
 #pnetlab/pnet-wireshark:latest
-pnetlab/ubuntu_sv:latest
+#pnetlab/ubuntu_sv:latest
 #pnetlab/ubuntu_sv:apache2
-pnetlab/linux-desktop:latest
-pnetlab/mysql_server:latest
-pnetlab/haproxy:latest
-pnetlab/centos7-server:latest
-pnetlab/centos7-desktop:latest
-ptthanh1511/ansible:latest
+#pnetlab/linux-desktop:latest
+#pnetlab/mysql_server:latest
+#pnetlab/haproxy:latest
+#pnetlab/centos7-server:latest
+#pnetlab/centos7-desktop:latest
+#ptthanh1511/ansible:latest
+cloudreve/cloudreve:latest
+postgres:17

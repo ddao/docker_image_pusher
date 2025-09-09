@@ -59,5 +59,6 @@
 #pnetlab/centos7-server:latest
 #pnetlab/centos7-desktop:latest
 #ptthanh1511/ansible:latest
-cloudreve/cloudreve:latest
-postgres:17
+#cloudreve/cloudreve:latest
+#postgres:17
+oxidized/oxidized:latest

@@ -61,4 +61,6 @@
 #ptthanh1511/ansible:latest
 #cloudreve/cloudreve:latest
 #postgres:17
-oxidized/oxidized:latest
+#oxidized/oxidized:latest
+openproject/openproject:16
+openproject/openproject:latest

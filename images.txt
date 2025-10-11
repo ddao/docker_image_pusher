@@ -62,5 +62,7 @@
 #cloudreve/cloudreve:latest
 #postgres:17
 #oxidized/oxidized:latest
-openproject/openproject:16
-openproject/openproject:latest
+#openproject/openproject:16
+#openproject/openproject:latest
+kubernetesui/metrics-scraper:v1.0.9
+kubernetesui/metrics-scraper:latest
